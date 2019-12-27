@@ -7,8 +7,8 @@ This game have to be open using unity to be able to see it.
 ## Screenshot Example:
 
 ## View in Unity
-![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/Start.png)
+![alt text](https://github.com/ricardocolin/2D-Game-Example-Unity/blob/master/img/Unity-view.png)
 
 ## Landscape View
-![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/gameOver.png)
+![alt text](https://github.com/ricardocolin/2D-Game-Example-Unity/blob/master/img/Landscape.png)
 
