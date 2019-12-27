@@ -10,5 +10,5 @@ This game have to be open using unity to be able to see it.
 ![alt text](https://github.com/ricardocolin/2D-Game-Example-Unity/blob/master/img/Unity-view.png)
 
 ## Landscape View
-![alt text](https://github.com/ricardocolin/2D-Game-Example-Unity/blob/master/img/Landscape.png)
+![alt text](https://github.com/ricardocolin/2D-Game-Example-Unity/blob/master/img/landscape.png)
 
